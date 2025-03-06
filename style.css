@@ -3,7 +3,6 @@
 
 #pembungkus{
 width: 100%;
-
 display: flex;
 justify-content: center;
 }
@@ -58,13 +57,13 @@ button{
     padding: 10px 25px 10px 25px;
     border: none;
     border-radius: 10px;
+    
 }
 button img{
     margin-right: 10px;
 }
 
 .isi:hover{
-    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
-    transition: background-color 0.3s ease-in-out;
+    box-shadow: rgba(10, 10, 10, 10.2) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    transition: background-color 0.3s ease-in-out;   
 }
-
